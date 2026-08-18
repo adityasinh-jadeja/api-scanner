@@ -3,6 +3,7 @@ Security utilities for password hashing and JWT token management.
 """
 
 from datetime import (
+    UTC,
     datetime,
     timedelta,
 )
@@ -45,9 +46,9 @@ def create_access_token(
     to_encode = data.copy()
 
     if expires_delta:
-        expire = datetime.utcnow() + expires_delta
+        expire = datetime.now(UTC) + expires_delta
     else:
-        expire = datetime.utcnow() + timedelta(
+        expire = datetime.now(UTC) + timedelta(
             minutes = settings.ACCESS_TOKEN_EXPIRE_MINUTES
         )
 

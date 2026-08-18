@@ -1,5 +1,5 @@
 """
-ⒸAngelaMos | 2026
+Adityasinh Jadeja | 2026
 FastAPI application factory for main.py
 """
 

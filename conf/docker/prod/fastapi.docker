@@ -1,4 +1,4 @@
-# ⒸAngelaMos | 2025
+# Adityasinh Jadeja | 2025
 # Production FastAPI Dockerfile
 # Optimized for performance with gunicorn multi-worker setup
 # No hot reload, built image (no volume mounts)

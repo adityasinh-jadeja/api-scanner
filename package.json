@@ -17,17 +17,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/CarterPerez-dev/Cybersecurity-Projects/PROJECTS/intermediate/api-security-scanner"
+    "url": "https://github.com/adityasinh-jadeja/api-scanner"
   },
   "keywords": [
     "security",
     "api-testing",
     "vulnerability-scanner",
+    "owasp",
     "pentesting",
     "fastapi",
     "react",
     "docker"
   ],
-  "author": "https://github.com/CarterPerez-dev",
-  "license": "MIT"
+  "author": "Adityasinh Jadeja",
+  "license": "AGPL-3.0"
 }

@@ -1,5 +1,5 @@
 """
-ⒸAngelaMos | 2025
+Adityasinh Jadeja | 2025
 Biz logic layer for orchestrating repositories and scanners
 """
 

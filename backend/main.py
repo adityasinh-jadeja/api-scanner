@@ -1,7 +1,5 @@
 """
-ⒸCertGames.com | 2026
-ⒸAngelaMos | CarterPerez-dev
-----
+Adityasinh Jadeja | 2026
 API Security Scanner FastAPI entry point
 """
 

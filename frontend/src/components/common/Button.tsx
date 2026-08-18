@@ -1,6 +1,6 @@
 // ===========================
 // Button.tsx
-// ©AngelaMos | 2025
+// Adityasinh Jadeja | 2025
 // ===========================
 
 import type { ButtonHTMLAttributes } from 'react'

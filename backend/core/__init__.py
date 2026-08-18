@@ -1,4 +1,4 @@
 """
-ⒸAngelaMos | 2025
+Adityasinh Jadeja | 2025
 Core modules for application infrastructure
 """

@@ -1,5 +1,5 @@
 """
-©AngelaMos | 2025
+Adityasinh Jadeja | 2025
 Base scanner class with common HTTP logic and evidence collection
 """
 

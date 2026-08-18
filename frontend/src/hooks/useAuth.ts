@@ -1,6 +1,6 @@
 // ===========================
 // useAuth.ts
-// ©AngelaMos | 2025
+// Adityasinh Jadeja | 2025
 // ===========================
 
 import { type UseMutationResult, useMutation } from '@tanstack/react-query'

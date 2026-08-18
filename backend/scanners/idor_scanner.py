@@ -1,5 +1,5 @@
 """
-©AngelaMos | 2025
+Adityasinh Jadeja | 2025
 IDOR/BOLA vulnerability scanner
 
 Based on OWASP API1:2023 - Broken Object Level Authorization

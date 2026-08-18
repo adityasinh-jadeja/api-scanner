@@ -1,4 +1,4 @@
-# ⒸAngelaMos | 2025
+# Adityasinh Jadeja | 2025
 # Development Vite Dockerfile
 # Runs Vite dev server with HMR (Hot Module Replacement)
 # Uses volume mounts for code (defined in docker-compose.dev.yml)

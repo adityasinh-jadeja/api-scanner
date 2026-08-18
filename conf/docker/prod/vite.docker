@@ -1,4 +1,4 @@
-# ⒸAngelaMos | 2025
+# Adityasinh Jadeja | 2025
 # Production Vite Dockerfile (Multi-stage build)
 # Stage 1: Build the React app with Vite
 # Stage 2: Serve static files with Nginx

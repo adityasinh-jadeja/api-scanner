@@ -1,6 +1,6 @@
 // ===========================
 // utils.ts
-// ©AngelaMos | 2025
+// Adityasinh Jadeja | 2025
 // ===========================
 
 export const formatDate = (dateString: string): string => {

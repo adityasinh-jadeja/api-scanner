@@ -1,6 +1,6 @@
 // ===========================
 // auth.types.ts
-// ©AngelaMos | 2025
+// Adityasinh Jadeja | 2025
 // ===========================
 
 export interface RegisterRequest {

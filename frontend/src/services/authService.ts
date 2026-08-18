@@ -1,6 +1,6 @@
 // ===========================
 // authService.ts
-// ©AngelaMos | 2025
+// Adityasinh Jadeja | 2025
 // ===========================
 
 import { AUTH_ENDPOINTS } from '@/config/constants'

@@ -1,5 +1,5 @@
 // ===================
-// © AngelaMos | 2025
+// Adityasinh Jadeja | 2025
 // eslint.config.js
 // ===================
 import js from '@eslint/js'

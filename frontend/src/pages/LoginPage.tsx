@@ -1,6 +1,6 @@
 // ===========================
 // LoginPage.tsx
-// ©AngelaMos | 2025
+// Adityasinh Jadeja | 2025
 // ===========================
 
 import { LoginForm } from '@/components/auth/LoginForm'

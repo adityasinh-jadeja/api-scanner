@@ -4,9 +4,9 @@ version = "1.0.1"
 description = "Backend API for security testing tool"
 requires-python = ">=3.13"
 authors = [
-    {name = "CarerPerez-dev", email = "support@certgames.com"}
+    {name = "Adityasinh Jadeja"}
 ]
-license = {text = "MIT"}
+license = {text = "AGPL-3.0"}
 
 dependencies = [
     # FastAPI and server

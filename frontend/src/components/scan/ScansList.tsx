@@ -1,6 +1,6 @@
 // ===========================
 // ScansList.tsx
-// ©AngelaMos | 2025
+// Adityasinh Jadeja | 2025
 // ===========================
 
 import { GiMagnifyingGlass } from 'react-icons/gi'

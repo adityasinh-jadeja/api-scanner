@@ -1,6 +1,6 @@
 // ===========================
 // ProtectedRoute.tsx
-// ©AngelaMos | 2025
+// Adityasinh Jadeja | 2025
 // ===========================
 
 import { Navigate } from 'react-router-dom'

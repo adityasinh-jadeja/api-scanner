@@ -1,6 +1,6 @@
 // ===========================
 // LoadingOverlay.tsx
-// ©AngelaMos | 2025
+// Adityasinh Jadeja | 2025
 // ===========================
 
 import { type ScanTestType, TEST_TYPE_LABELS } from '@/config/constants'

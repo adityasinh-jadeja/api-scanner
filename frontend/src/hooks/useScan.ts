@@ -1,6 +1,6 @@
 // ===========================
 // useScan.ts
-// ©AngelaMos | 2025
+// Adityasinh Jadeja | 2025
 // ===========================
 
 import {

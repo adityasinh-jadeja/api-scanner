@@ -1,6 +1,6 @@
 // ===========================
 // uiStore.ts
-// ©AngelaMos | 2025
+// Adityasinh Jadeja | 2025
 // ===========================
 
 import { create } from 'zustand'

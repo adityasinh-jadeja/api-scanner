@@ -1,6 +1,6 @@
 // ===========================
 // scan.types.ts
-// ©AngelaMos | 2025
+// Adityasinh Jadeja | 2025
 // ===========================
 
 import type { ScanStatus, ScanTestType, Severity } from '@/config/constants'

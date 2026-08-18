@@ -1,5 +1,5 @@
 """
-©AngelaMos | 2025
+Adityasinh Jadeja | 2025
 Rate limiting detection and bypass testing scanner
 
 OWASP API4:2023

@@ -1,6 +1,6 @@
 // ===========================
 // ScanResultsPage.tsx
-// ©AngelaMos | 2025
+// Adityasinh Jadeja | 2025
 // ===========================
 
 import { Link, useParams } from 'react-router-dom'

@@ -1,5 +1,5 @@
 """
-©AngelaMos | 2025
+Adityasinh Jadeja | 2025
 SQL injection vulnerability scanner
 
 Tests error based, boolean based, and time based blind SQLi
