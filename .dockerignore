@@ -1,0 +1,34 @@
+# Version control
+.git
+.gitignore
+
+# Node modules (installed inside container)
+frontend/node_modules
+node_modules
+
+# Python virtual environments
+backend/.venv
+backend/venv
+backend/__pycache__
+
+# Build outputs
+frontend/dist
+frontend/build
+
+# IDE and editor files
+.vscode
+.idea
+*.swp
+*.swo
+
+# Environment files (secrets)
+.env
+
+# Docker files (no need to copy themselves)
+.dockerignore
+
+# Documentation and misc
+*.md
+LICENSE
+learn/
+.pre-commit-config.yaml
