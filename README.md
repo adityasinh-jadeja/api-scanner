@@ -32,16 +32,16 @@ graph TB
     end
 
     subgraph Docker["Docker Compose Network"]
-        Nginx["Nginx :80<br/>Reverse Proxy"]
-        Frontend["React + Vite :5173<br/>Dashboard UI"]
-        Backend["FastAPI :8000<br/>REST API"]
-        DB["PostgreSQL :5432<br/>Data Storage"]
+        Nginx["Nginx :80\nReverse Proxy"]
+        Frontend["React + Vite :5173\nDashboard UI"]
+        Backend["FastAPI :8000\nREST API"]
+        DB["PostgreSQL :5432\nData Storage"]
 
         subgraph Scanners["Scanner Modules"]
-            SQLi["SQLi Scanner<br/>Error/Boolean/Time-based"]
-            Auth["Auth Scanner<br/>JWT + Token Validation"]
-            IDOR["IDOR Scanner<br/>ID Enumeration + BOLA"]
-            Rate["Rate Limit Scanner<br/>Detection + Bypass"]
+            SQLi["SQLi Scanner\nError/Boolean/Time-based"]
+            Auth["Auth Scanner\nJWT + Token Validation"]
+            IDOR["IDOR Scanner\nID Enumeration + BOLA"]
+            Rate["Rate Limit Scanner\nDetection + Bypass"]
         end
     end
 
@@ -53,8 +53,14 @@ graph TB
     Nginx -->|"/api/*"| Backend
     Nginx -->|"/*"| Frontend
     Backend --> DB
-    Backend --> Scanners
-    Scanners -->|"HTTP Requests"| TargetAPI
+    Backend --> SQLi
+    Backend --> Auth
+    Backend --> IDOR
+    Backend --> Rate
+    SQLi -->|"HTTP Requests"| TargetAPI
+    Auth -->|"HTTP Requests"| TargetAPI
+    IDOR -->|"HTTP Requests"| TargetAPI
+    Rate -->|"HTTP Requests"| TargetAPI
 ```
 
 ## Scanner Modules
